@@ -1,4 +1,4 @@
-package academy.javapro.week9.lab;
+package main.java.academy.javapro.week9.lab;
 
 import java.util.List;
 
